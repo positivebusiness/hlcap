@@ -111,10 +111,10 @@
     <div class="pwr">
         <div class="pct">
             <div class="content">
-                <div class="sct-title-sm">Using the blockchain to change the way we communicate, invest, do business, and have fun.</div>
+                <div class="sct-title-sm">Using the Blockchain to tokenize the global asset ecosystem by introducing protocol standards upon which everyone can build</div>
                 <div class="sct-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                </div>
+                	HyperLink Capital is an innovative investment firm focused on the tokenization of securities, protocol standards and the development of blockchain-based capital markets. We believe in the potential of blockchain technology to radically alter the shape of modern finance, business, and government, thus creating a global interoperable asset ecosystem.
+		</div>
             </div>
         </div>
     </div>
@@ -193,8 +193,8 @@
                 <div class="col col-left">
                     <h2 class="sct-title">Investment <br>Portfolio</h2>
                     <div class="sct-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </div>
+                    	HyperLink Capital only invests in projects once the particular project on offer has gone through our intensive valuation analysis checklist. Through hours of meetings and the analytical research of data, we have chosen to take a sizable stake in these target companies. When HyperLink Capital invests in a project, the project joins our family, where we ensure the continued success of the project, by providing full access to our professional resources, expertise and insight.
+		    </div>
                 </div>
                 <div class="col col-right">
                     <div class="clients animate">
@@ -228,8 +228,8 @@
                 <div class="col col-right">
                     <h2 class="sct-title">Strategic <br>Partnerships</h2>
                     <div class="sct-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </div>
+                    	One of the biggest mistakes we find that businesses are doing is trying to do everything on their own. Once Hyperlink Capital strategically aligns with your business, we ensure to help grow your business at a low cost and introduce new cost saving solutions. We start by pioneering a shared vision and set of company values, which will then fill the gap in your businesses weaknesses, thus creating a synergy that increases profit potential. Our main goal is for your business to gain a critical competitive advantage.
+		    </div>
                 </div>
             </div>
         </div>
