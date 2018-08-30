@@ -20,7 +20,7 @@ $u_message = strip_tags(trim($_POST['u_message']));
 
 $mail->setFrom('noreply@hyperlink.capital', 'Hyperlink website robot');
 //$mail->addReplyTo('maksym.sivkovych@gmail.com', 'Maksym Dev');
-$mail->addAddress('maksym.sivkovych@gmail.com');   // Add a recipient ex: hello@hyperlink.capital
+$mail->addAddress('hello@hyperlink.capital');   // Add a recipient ex: hello@hyperlink.capital
 //$mail->addCC('cc@example.com');
 //$mail->addBCC('bcc@example.com');
 
